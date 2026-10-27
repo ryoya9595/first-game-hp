@@ -2,7 +2,7 @@
 const PAGE_URL = "https://ryoya9595.github.io/first-game-hp/";
 const GUIDE_URL = PAGE_URL + "setup.md";
 
-const INSTALL_PROMPT = `ホームページやゲームを作る練習（AI自動化講座 第6回）をしたいです。
+const INSTALL_PROMPT = `ホームページやゲームを作る練習（AI自動化講座「まずゲームとHPを作ってみよう」の回）をしたいです。
 
 【手順書】
 ${GUIDE_URL}
